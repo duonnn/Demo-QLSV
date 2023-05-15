@@ -1,0 +1,22 @@
+C:\Users\PC\Desktop\Bài tập lớn\BLL\bin\Debug\BLL.dll
+C:\Users\PC\Desktop\Bài tập lớn\BLL\bin\Debug\BLL.pdb
+C:\Users\PC\Desktop\Bài tập lớn\BLL\bin\Debug\DAL.dll
+C:\Users\PC\Desktop\Bài tập lớn\BLL\bin\Debug\DTO.dll
+C:\Users\PC\Desktop\Bài tập lớn\BLL\bin\Debug\DAL.pdb
+C:\Users\PC\Desktop\Bài tập lớn\BLL\bin\Debug\DTO.pdb
+C:\Users\PC\Desktop\Bài tập lớn\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Bài tập lớn\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Bài tập lớn\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\PC\Desktop\Bài tập lớn\BLL\obj\Debug\BLL.dll
+C:\Users\PC\Desktop\Bài tập lớn\BLL\obj\Debug\BLL.pdb
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\BLL\bin\Debug\BLL.dll
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\BLL\bin\Debug\BLL.pdb
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\BLL\bin\Debug\DAL.dll
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\BLL\bin\Debug\DTO.dll
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\BLL\bin\Debug\DAL.pdb
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\BLL\bin\Debug\DTO.pdb
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\BLL\obj\Debug\BLL.dll
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\BLL\obj\Debug\BLL.pdb

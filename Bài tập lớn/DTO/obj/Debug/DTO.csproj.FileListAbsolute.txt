@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\Bài tập lớn\DTO\bin\Debug\DTO.dll
+C:\Users\PC\Desktop\Bài tập lớn\DTO\bin\Debug\DTO.pdb
+C:\Users\PC\Desktop\Bài tập lớn\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Bài tập lớn\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Bài tập lớn\DTO\obj\Debug\DTO.dll
+C:\Users\PC\Desktop\Bài tập lớn\DTO\obj\Debug\DTO.pdb
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\DTO\bin\Debug\DTO.dll
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\DTO\bin\Debug\DTO.pdb
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\DTO\obj\Debug\DTO.dll
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\DTO\obj\Debug\DTO.pdb

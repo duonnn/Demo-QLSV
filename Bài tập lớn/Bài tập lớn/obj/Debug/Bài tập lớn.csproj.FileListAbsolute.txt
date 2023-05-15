@@ -1,0 +1,73 @@
+C:\Users\PC\Desktop\Bài tập lớn\Bài tập lớn\bin\Debug\Bài tập lớn.exe.config
+C:\Users\PC\Desktop\Bài tập lớn\Bài tập lớn\bin\Debug\Bài tập lớn.exe
+C:\Users\PC\Desktop\Bài tập lớn\Bài tập lớn\bin\Debug\Bài tập lớn.pdb
+C:\Users\PC\Desktop\Bài tập lớn\Bài tập lớn\obj\Debug\Bài tập lớn.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Bài tập lớn\Bài tập lớn\obj\Debug\Bài tập lớn.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.Form1.resources
+C:\Users\PC\Desktop\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.Properties.Resources.resources
+C:\Users\PC\Desktop\Bài tập lớn\Bài tập lớn\obj\Debug\Bài tập lớn.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Bài tập lớn\Bài tập lớn\obj\Debug\Bài tập lớn.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Bài tập lớn\Bài tập lớn\obj\Debug\Bài tập lớn.exe
+C:\Users\PC\Desktop\Bài tập lớn\Bài tập lớn\obj\Debug\Bài tập lớn.pdb
+C:\Users\PC\Desktop\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.Login.resources
+C:\Users\PC\Desktop\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.Thong_tin_tai_khoan.resources
+C:\Users\PC\Desktop\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.Bang_diem_sv.resources
+C:\Users\PC\Desktop\Bài tập lớn\Bài tập lớn\bin\Debug\BLL.dll
+C:\Users\PC\Desktop\Bài tập lớn\Bài tập lớn\bin\Debug\DTO.dll
+C:\Users\PC\Desktop\Bài tập lớn\Bài tập lớn\bin\Debug\DAL.dll
+C:\Users\PC\Desktop\Bài tập lớn\Bài tập lớn\bin\Debug\BLL.pdb
+C:\Users\PC\Desktop\Bài tập lớn\Bài tập lớn\bin\Debug\DTO.pdb
+C:\Users\PC\Desktop\Bài tập lớn\Bài tập lớn\bin\Debug\DAL.pdb
+C:\Users\PC\Desktop\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.Doi_mk.resources
+C:\Users\PC\Desktop\Bài tập lớn\Bài tập lớn\obj\Debug\Bài tập lớn.csproj.CopyComplete
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\Bài tập lớn\bin\Debug\Bài tập lớn.exe.config
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\Bài tập lớn\bin\Debug\Bài tập lớn.exe
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\Bài tập lớn\bin\Debug\Bài tập lớn.pdb
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\Bài tập lớn\bin\Debug\BLL.dll
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\Bài tập lớn\bin\Debug\DTO.dll
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\Bài tập lớn\bin\Debug\DAL.dll
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\Bài tập lớn\bin\Debug\BLL.pdb
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\Bài tập lớn\bin\Debug\DTO.pdb
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\Bài tập lớn\bin\Debug\DAL.pdb
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài tập lớn.csproj.AssemblyReference.cache
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài tập lớn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.Bang_diem_sv.resources
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.Doi_mk.resources
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.Form1.resources
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.Login.resources
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.Properties.Resources.resources
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.Thong_tin_tai_khoan.resources
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài tập lớn.csproj.GenerateResource.cache
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài tập lớn.csproj.CoreCompileInputs.cache
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài tập lớn.csproj.CopyComplete
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài tập lớn.exe
+C:\Users\Del\Documents\Zalo Received Files\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài tập lớn.pdb
+C:\Users\Del\Desktop\Bài tập lớn\Bài tập lớn\Bài tập lớn\bin\Debug\Bài tập lớn.exe.config
+C:\Users\Del\Desktop\Bài tập lớn\Bài tập lớn\Bài tập lớn\bin\Debug\Bài tập lớn.exe
+C:\Users\Del\Desktop\Bài tập lớn\Bài tập lớn\Bài tập lớn\bin\Debug\Bài tập lớn.pdb
+C:\Users\Del\Desktop\Bài tập lớn\Bài tập lớn\Bài tập lớn\bin\Debug\BLL.dll
+C:\Users\Del\Desktop\Bài tập lớn\Bài tập lớn\Bài tập lớn\bin\Debug\DTO.dll
+C:\Users\Del\Desktop\Bài tập lớn\Bài tập lớn\Bài tập lớn\bin\Debug\DAL.dll
+C:\Users\Del\Desktop\Bài tập lớn\Bài tập lớn\Bài tập lớn\bin\Debug\BLL.pdb
+C:\Users\Del\Desktop\Bài tập lớn\Bài tập lớn\Bài tập lớn\bin\Debug\DTO.pdb
+C:\Users\Del\Desktop\Bài tập lớn\Bài tập lớn\Bài tập lớn\bin\Debug\DAL.pdb
+C:\Users\Del\Desktop\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài tập lớn.csproj.AssemblyReference.cache
+C:\Users\Del\Desktop\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài tập lớn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Del\Desktop\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.Bang_diem_sv.resources
+C:\Users\Del\Desktop\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.Doi_mk.resources
+C:\Users\Del\Desktop\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.Form1.resources
+C:\Users\Del\Desktop\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.Login.resources
+C:\Users\Del\Desktop\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.Properties.Resources.resources
+C:\Users\Del\Desktop\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.Thong_tin_tai_khoan.resources
+C:\Users\Del\Desktop\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài tập lớn.csproj.GenerateResource.cache
+C:\Users\Del\Desktop\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài tập lớn.csproj.CoreCompileInputs.cache
+C:\Users\Del\Desktop\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài tập lớn.csproj.CopyComplete
+C:\Users\Del\Desktop\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài tập lớn.exe
+C:\Users\Del\Desktop\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài tập lớn.pdb
+C:\Users\Del\Desktop\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.Thongtinsinhvien.resources
+C:\Users\Del\Desktop\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.Danhsachthilai.resources
+C:\Users\Del\Desktop\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.Monhoc.resources
+C:\Users\Del\Desktop\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.Danhmuckhoa.resources
+C:\Users\Del\Desktop\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.Quanlygiangvien.resources
+C:\Users\Del\Desktop\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.Hocphi.resources
+C:\Users\Del\Desktop\Bài tập lớn\Bài tập lớn\Bài tập lớn\obj\Debug\Bài_tập_lớn.ThongkeSV.resources
